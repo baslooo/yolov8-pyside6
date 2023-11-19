@@ -2,6 +2,7 @@
 ---
 ![](img/home.png)
 
+基于 https://github.com/Jai-wei/YOLOv8-PySide6-GUI
 ## How to Run
 - `python>=3.8`
 - `pip install ultralytics==8.0.196`
